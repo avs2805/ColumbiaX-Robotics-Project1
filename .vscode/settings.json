@@ -1,6 +1,0 @@
-{
-    "ros.distro": "melodic",
-    "python.autoComplete.extraPaths": [
-        "/home/avi/Documents/learn/colx/src/colx_project1/catkin_ws/devel/lib/python2.7/dist-packages"
-    ]
-}
