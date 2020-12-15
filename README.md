@@ -1,4 +1,9 @@
 # Project1-ColumbiaX-Robotics
-Project1- ColumbiaX Robotics - EdX - Introduction to ROS, Simple Pub/Sub, Message Generation
+This assignment covers Introduction to ROS, Writing a simple Publisher/Subscriber, and custom message generation in ROS.
 
-TwoInts Message creation - Modify the cmakelists.txt file
+The message is called: 'TwoInts'
+
+Steps:
+1. Define TwoInts.msg
+2. Modify CMakeLists.txt for the package
+3. Build package
